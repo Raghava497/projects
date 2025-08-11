@@ -1,4 +1,5 @@
 🧠 U-Net Based Image Segmentation Project
+
 📌 Overview
 This project implements a U-Net deep learning model for image segmentation, allowing pixel-level classification of input images.
 It was developed and tested in Google Colab with dataset handling, training, evaluation, and visualization steps clearly documented.
