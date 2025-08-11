@@ -33,6 +33,7 @@ bash
 Copy
 Edit
 pip install tensorflow numpy opencv-python matplotlib scikit-learn
+
 🚀 How to Run
 Open the notebook in Google Colab.
 Upload the dataset to Google Drive and adjust paths in the notebook.
